@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753268731133",
+    "project_id": "fcm-test-78758",
+    "storage_bucket": "fcm-test-78758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753268731133:android:1e1105bc94940adbeaa294",
+        "android_client_info": {
+          "package_name": "com.arybync.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753268731133-p3j5e0r60u9p3q02mc1kkohh1aq8de42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgwn3jNobaiQEVEyrXlef-K5LdVPA3B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753268731133-p3j5e0r60u9p3q02mc1kkohh1aq8de42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
